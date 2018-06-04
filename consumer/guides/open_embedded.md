@@ -38,7 +38,7 @@ Below are the list of OpenEmbedded layers used for 96Boards platform.
 
 In addition to the above layers, there are board specific layers present for each 96Boards CE boards:
 
-1. Dragonboard410c - [meta-qcom BSP layer](http://git.yoctoproject.org/cgit/cgit.cgi/meta-qcom)
+1. Dragonboard410c, Dragonboard820c - [meta-qcom BSP layer](http://git.yoctoproject.org/cgit/cgit.cgi/meta-qcom)
 2. Hikey - [meta-96boards BSP layer](https://github.com/96boards/meta-96boards)
 
 # Package Dependencies
