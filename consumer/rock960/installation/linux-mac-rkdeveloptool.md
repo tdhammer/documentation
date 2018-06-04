@@ -1,3 +1,8 @@
+---
+title: Linux Host Installation for ROCK960
+permalink: /documentation/consumer/rock960/installation/linux-mac-rkdeveloptool.md.html
+---
+
 ## Linux/macOS Host
 
 This section show how to install a new operating system to ROCK960 on board eMMC using the [rkdeveloptool](http://opensource.rock-chips.com/wiki_Rkdeveloptool) on a Linux or macOS host computer.
@@ -56,7 +61,7 @@ Now you have rkdeveloptool executable at the current directory.
 
 #### **Step 2**: Download all necessary images
 
-Go to the [Downloads page](../downloads/README.md) to donwload the image.
+Go to the [Downloads page](../downloads) to donwload the image.
 
 Extract the image tar ball, for SD card/eMMC AIO image, the file list as below:
 

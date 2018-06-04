@@ -10,7 +10,13 @@ Welcome to the official documentation for 96Boards, this documentation is writte
 
 ## Contents - Start Here
 
-Select your platform for a list of supported products(Left), or jump to 96Boards specific resources by selecting a board from the list(Right).
+Select your platform for a list of supported products (left), or jump to 96Boards specific resources by selecting a board from the list (right).
+
+**Important links:**
+
+- [96Boards Guides](guides/)
+- [Contribute to this repository](CONTRIBUTE.md)
+
 <div style="overflow-x:scroll;" markdown="1">
 
 | Platform                                | Description                                 | Boards                                     |
@@ -32,7 +38,7 @@ Select your platform for a list of supported products(Left), or jump to 96Boards
    - The first open specification to define a platform for the delivery of compatible low-cost, small footprint 32-bit and 64-bit Cortex-A boards from a range of ARM System on Chip (SoC) vendors
 - [Report a bug](Extras/Report_a_bug.md)
    - Instructions on how to report bugs for any of our 96Boards hardware and software
-- [Contribution Policy](Extras/ContributionPolicy.md)
+- [Contribution Policy and Guide](CONTRIBUTE.md)
    - View our documentation "Contribution Policy" and learn how you can contribute
 - [Specifications](Specifications/)
    - Low cost an server hardware platform specifications
